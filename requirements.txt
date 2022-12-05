@@ -71,11 +71,11 @@ libspn
 lxml
 numba
 openml
-#optuna
+# optuna # sklearn?
 pydot
 pytest
 ray[default,rllib,tune]==2.0.0
-spflow
+# spflow # has sklearn dep
 stable-baselines
 stable-baselines3
 sympy
