@@ -71,7 +71,7 @@ libspn
 lxml
 numba
 openml
-optuna
+#optuna
 pydot
 pytest
 ray[default,rllib,tune]==2.0.0
